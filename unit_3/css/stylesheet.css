@@ -1,6 +1,6 @@
 body {
 		text-align: center;
-		background: url("unit_3/image/heroimage.jpg");
+		background: url("image/heroimage.jpg");
 		background-size: cover 
 
 }
@@ -8,3 +8,5 @@ h1, p {
 	color: black
 	font-size: 22px;
 }
+hr { 
+	width: 22px}
