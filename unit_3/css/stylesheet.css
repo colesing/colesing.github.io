@@ -1,19 +1,20 @@
-head {
-		text-align: left;
-		color: black;
-}
 body {
 		text-align: center;
-		background: url("image/heroimage.jpg");
-		background-size: cover 
+		font-family: Arial 
+		font-size: 12px;
 }
 h1, {
-	color: black
-	font-size: 22px;
-
-}
+		color: black
+		font-size: 22px;
+	}
 hr { 
-	width: 22px}
+		width: 22px;
+	}
+h2 {
+		text-align: center;
+		backgroud: url(image/heroimage.JPG);
+		background-size: cover; 
+	}
 h3 {
 	color black
 	font-style: 18px; 
