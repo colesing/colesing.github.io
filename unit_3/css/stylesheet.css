@@ -1,3 +1,6 @@
+head {
+		text-align: left;
+}
 body {
 		text-align: center;
 		background: url("image/heroimage.jpg");
@@ -7,6 +10,7 @@ body {
 h1, {
 	color: black
 	font-size: 22px;
+
 }
 hr { 
 	width: 22px}
