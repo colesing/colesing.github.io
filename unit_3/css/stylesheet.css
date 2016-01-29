@@ -1,27 +1,24 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
-		text-align: center;
-		font-family: Arial 
-		font-size: 12px;
+	color:#222;
+	font-family: Arial, helvetica, sans-serif;
+	font-size: 16px;
 }
-div {
-		text-align: center;
-		backgroud: url(image/heroimage.JPG);
-		background-size: cover
-		color: #fff;
-		font-family: Helvetica;
+section#splash {
+	text-align: center;
+	background: url(../image/heroimage.JPG);
+	background-size: cover;
+	color: #fff;
 }
-h1, {
-		color: black
-		font-size: 26px;
+h1 {
+	font-size: 26px;
 }
 hr { 
-		width: 23px;
+	width: 23px;
 }
 h2 {
-	color: ; black;
-	font-size: 20
+	font-size: 20px;
 }
 h3 {
-	color:; black;
 	font-style: 18px; 
 }
