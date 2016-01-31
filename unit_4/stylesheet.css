@@ -1,4 +1,5 @@
 * { margin:0; padding:0; box-sizing:border-box; }
+@import url(<link href='https://fonts.googleapis.com/css?family=Cabin:600')
 body {
 	color:#222;
 	font-family: Arial, helvetica, sans-serif;
@@ -6,7 +7,8 @@ body {
 }
 section#splash {
 	text-align: center;
-	background: url(../image/heroimage.JPG);
+	font-family: 'Cabin' , sans-serif; 
+	background: url(image/heroimage.JPG);
 	background-size: cover;
 	color: #fff;
 }
