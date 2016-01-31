@@ -6,7 +6,7 @@ body {
 }
 section#splash {
 	text-align: center;
-	background: url(../image/heroimage.JPG);
+	background: url(image/heroimage.JPG);
 	background-size: cover;
 	color: #fff;
 }
