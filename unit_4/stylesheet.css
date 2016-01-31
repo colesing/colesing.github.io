@@ -1,9 +1,10 @@
-* { margin:50; padding:100; box-sizing:border-box; }
-@import url(<link href='https://fonts.googleapis.com/css?family=Cabin:600');
+* { margin:0; padding:0; box-sizing:border-box; }
+@import url(https://fonts.googleapis.com/css?family=Cabin:600);
+@import url(https://fonts.googleapis.com/css?family=Old+Standard+TT);
 
 body {
 	color:#222;
-	font-family: Arial, helvetica, sans-serif;
+	font-family: 'Old Standard TT', serif; 
 	font-size: 16px;
 }
 section#splash {
