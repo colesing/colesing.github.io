@@ -14,7 +14,7 @@ section#splash {
 	background: url(image/heroimage.JPG);
 	background-size: cover;
 	color: white;
-	border: 2px black solid;
+	border: 6px black solid;
 }
 h1 {
 	font-size: 26px;
