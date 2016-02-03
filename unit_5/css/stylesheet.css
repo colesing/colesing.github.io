@@ -12,12 +12,20 @@ body {
 section#splash {
 	text-align: center;
 	font-family: 'Cabin', sans-serif;
-	background: url(image/heroimage.JPG);
+	background: url(../images/heroimage.JPG);
 	background-size: cover;
 	color: white;
+	height: 90vh;
+	position: relative;
 }
 h1 {
-	font-size: 26px;
+	font-size: 32px;
+	padding-top: 10em; 
+	position: absolute;
+	width: 100%;
+	top: 50%;
+	transform:
+		translateY(-50%);
 }
 hr { 
 	width: 23px;
