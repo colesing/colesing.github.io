@@ -45,6 +45,7 @@ section#whatwedo {
 	padding:20px;
 }
 section#work {
+	clear: both;
 	background-color:#E8C66A;
 	border:1px black solid;
 	padding:20px;
