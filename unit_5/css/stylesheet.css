@@ -37,9 +37,9 @@ section#whatwedo {
 	background-color: #FFED74;
 	border:1px black solid;
 	padding:20px;
-	display: block;
+	display: inline-block;
 	float: left;
-	padding: 20px;
+	padding: 10px;
 }
 section #social {
 	background-color: white;
