@@ -40,15 +40,6 @@ section#whatwedo {
 	display: block;
 	float: left;
 	padding: 20px;
-	margin: 25%;
-}
-section#social {
-	background-color: white;
-	border:1px black solid;
-	padding: 20px;
-	display: inline-block;
-	float:right;
-	margin:75%;
 }
 section#work {
 	clear: both;
