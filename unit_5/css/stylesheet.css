@@ -41,6 +41,7 @@ section#whatwedo {
 	float: left;
 	margin: 32%;
 	text-align: left;
+	clear: left;
 }
 section #social {
 	background-color: white;
