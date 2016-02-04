@@ -33,15 +33,17 @@ h2 {
 h3 {
 	font-style: 18px; 
 }
-section#whatwedo {
+section#whatwedo p {
 	background-color: #FFED74;
 	border:1px black solid;
 	padding:20px;
 	display: inline-block;
 	float: left;
 	padding: 10px;
+	text-align: left;
 }
 section #social {
+	clear: both;
 	background-color: white;
 	border: 1px black solid;
 	display: inline-block;
