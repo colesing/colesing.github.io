@@ -41,6 +41,13 @@ section#whatwedo {
 	float: left;
 	padding: 20px;
 }
+section #social {
+	background-color: white;
+	border: 1px black solid;
+	display: inline-block;
+	float: right;
+}
+
 section#work {
 	clear: both;
 	background-color:#E8C66A;
