@@ -39,7 +39,6 @@ section#whatwedo {
 	padding:20px;
 	display: block;
 	float: left;
-	margin: 32%;
 	text-align: left;
 	clear: left;
 }
@@ -48,7 +47,6 @@ section #social {
 	border: 1px black solid;
 	display: block;
 	float: right;
-	margin: 60%;
 }
 section#work {
 	clear: both;
