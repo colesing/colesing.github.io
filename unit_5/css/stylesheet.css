@@ -37,17 +37,18 @@ section#whatwedo {
 	background-color: #FFED74;
 	border:1px black solid;
 	padding:20px;
-	display: inline-block;
+	display: block;
 	float: left;
+	margin: 32%;
 	text-align: left;
 }
 section #social {
 	background-color: white;
 	border: 1px black solid;
-	display: inline-block;
+	display: block;
 	float: right;
+	margin: 60%;
 }
-
 section#work {
 	clear: both;
 	background-color:#E8C66A;
