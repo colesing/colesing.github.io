@@ -37,7 +37,7 @@ section#whatwedo {
 	background-color: #FFED74;
 	border:1px black solid;
 	padding:20px;
-	display: block;
+	display: inline-block;
 	float: left;
 	text-align: left;
 	clear: right;
@@ -46,7 +46,7 @@ section #services {
 	background-color: white
 	border: 1ps black solid;
 	padding: 20px
-	display: block;
+	display: inline-block;
 	float: right;
 	clear: left;
 }
