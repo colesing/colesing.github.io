@@ -42,12 +42,6 @@ section#whatwedo {
 	text-align: left;
 	clear: left;
 }
-section #social {
-	background-color: white;
-	border: 1px black solid;
-	display: block;
-	float: right;
-}
 section#work {
 	clear: both;
 	background-color:#E8C66A;
