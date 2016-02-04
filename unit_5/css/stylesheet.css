@@ -40,6 +40,14 @@ section#whatwedo {
 	display: block;
 	float: left;
 	text-align: left;
+	clear: right;
+}
+section #services {
+	background-color: white
+	border: 1ps black solid;
+	padding: 20px
+	display: block;
+	float: right;
 	clear: left;
 }
 section#work {
