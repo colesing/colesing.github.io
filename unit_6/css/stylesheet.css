@@ -11,7 +11,7 @@ body {
 section#splash {
 	text-align: center;
 	font-family: 'Cabin', sans-serif;
-	background: url(image/heroimage.JPG);
+	background: url(images/heroimage.JPG);
 	background-size: cover;
 	color: white;
 	border: 6px black solid;
