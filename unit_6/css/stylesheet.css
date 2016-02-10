@@ -35,7 +35,7 @@ section#whatwedo {
 }
 section#first {
 	border: 1px black solid;
-	padding: 20px;
+	padding: 10px;
 }
 section#marketing {
 	background-color: blue
@@ -50,12 +50,6 @@ section#calendar {
 	padding: 20px;
 	float: right;
 	width: 35%;
-}
-.clearfix:after {
-	display: block;
-	content: " ";
-	clear: both;
-	height: 0;
 }
 section#advertising {
 	background-color: green;
