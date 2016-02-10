@@ -62,6 +62,7 @@ section#advertising {
 	padding: 20px;
 	float: left;
 	width: 50%;
+	clear: left;
 }
 
 section#reporting {
