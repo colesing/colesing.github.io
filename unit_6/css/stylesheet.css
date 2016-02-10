@@ -8,6 +8,27 @@ body {
 	font-size: 16px;
 	line-height: 1.5em;
 }
+nav {
+	background-color: black;
+	font-family: "old Standard TT", serif;
+}
+li { 
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 20px;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
 section#splash {
 	text-align: center;
 	font-family: 'Cabin', sans-serif;
@@ -75,25 +96,25 @@ section#reporting {
 
 section#work {
 	clear: both;
-	background-color:#E8C66A;
+	background-color: 45525D;
 	border:1px black solid;
 	padding:20px;
 }
 
 section#ABFF {
-	background-color: #FFC675
+	background-color: white;
 	border:1px black solid;
 	padding:20px;
 }
 
 section#FrenchToast {
-	background-color:#E89C6C;
+	background-color: white;
 	border:1px black solid;
 	padding:20px;
 }
 
 section#livHome {
-	background-color:#FFE2B8;
+	background-color: white;
 	border: 1px black solid;
 	padding:20px;
 }
