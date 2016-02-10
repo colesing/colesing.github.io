@@ -33,19 +33,29 @@ section#whatwedo {
 	border:1px black solid;
 	padding:20px;
 }
+section#first {
+	border: 1px black solid;
+	padding: 20px;
+}
 section#marketing {
 	background-color: blue
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 30%;
+	width: 35%;
 }
 section#calendar {
 	background-color: red;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 62%;
+	width: 35%;
+}
+.clearfix:after {
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
 }
 section#advertising {
 	background-color: green;
@@ -60,13 +70,6 @@ section#reporting {
 	padding: 20px;
 	float: right;
 	width: 62%;
-}
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	content: " ";
-	clear: both;
-	height: 0;
 }
 section#work {
 	background-color:#E8C66A;
