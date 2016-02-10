@@ -40,10 +40,10 @@ section#splash {
 }
 h1 {
 	font-size: 34px;
-	padding-top: 10em;
+	padding-top: 15em;
 	position: absolute;
 	width: 100%;
-	top: 20%;
+	top: 15%;
 	transform: 
 		translateY(-50%);
 }
