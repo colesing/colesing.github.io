@@ -19,9 +19,12 @@ section#splash {
 }
 h1 {
 	font-size: 26px;
-}
-hr { 
-	width: 23px;
+	padding-top: 10em;
+	position: absolute;
+	width: 100%;
+	top: 25%;
+	transform: 
+		translateY(-50%);
 }
 h2 {
 	font-size: 20px;
