@@ -33,58 +33,55 @@ section#whatwedo {
 	border:1px black solid;
 	padding:20px;
 }
-section#first {
-	border: 1px black solid;
-	padding: 10px;
-}
+
 section#marketing {
 	background-color: blue
 	border: 1px black solid;
 	padding: 20px;
-	float: left;
-	width: 35%;
 }
+
 section#calendar {
 	background-color: red;
 	border: 1px black solid;
 	padding: 20px;
-	float: right;
-	width: 35%;
 }
+
 section#advertising {
 	background-color: green;
 	border: 1px black solid;
 	padding: 20px;
-	float: left;
-	width: 30%
 }
+
 section#reporting {
 	background-color: yellow;
 	border: 1px black solid;
 	padding: 20px;
-	float: right;
-	width: 62%;
 }
+
 section#work {
 	background-color:#E8C66A;
 	border:1px black solid;
 	padding:20px;
 }
+
 section#ABFF {
 	background-color: #FFC675
 	border:1px black solid;
 	padding:20px;
 }
+
 section#FrenchToast {
 	background-color:#E89C6C;
 	border:1px black solid;
 	padding:20px;
 }
+
 section#livHome {
 	background-color:#FFE2B8;
 	border: 1px black solid;
 	padding:20px;
 }
+
 section#About {
 	background-color: #FF957E;
 	border: 1px black solid;
