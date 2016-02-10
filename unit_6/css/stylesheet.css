@@ -13,6 +13,7 @@ section#splash {
 	font-family: 'Cabin', sans-serif;
 	background: url(../images/heroimage.JPG);
 	background-size: cover;
+	height: 90vh;
 	color: white;
 	border: 6px black solid;
 }
