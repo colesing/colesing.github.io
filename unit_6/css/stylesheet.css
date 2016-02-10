@@ -44,7 +44,7 @@ section#marketing {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 40%;
+	width: 50%;
 }
 
 section#calendar {
@@ -52,7 +52,7 @@ section#calendar {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 40%;
+	width: 50%;
 }
 
 section#advertising {
@@ -61,7 +61,7 @@ section#advertising {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 30%;
+	width: 50%;
 }
 
 section#reporting {
@@ -69,8 +69,8 @@ section#reporting {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 30%;
-	clear: left;
+	width: 50%;
+	clear: right;
 }
 
 section#work {
