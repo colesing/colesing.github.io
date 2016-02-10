@@ -45,7 +45,6 @@ section#marketing {
 	padding: 20px;
 	float: left;
 	width: 50%;
-	clear:left;
 }
 
 section#calendar {
@@ -57,7 +56,7 @@ section#calendar {
 }
 
 section#advertising {
-	clear: both, left;
+	clear: both;
 	background-color: green;
 	border: 1px black solid;
 	padding: 20px;
