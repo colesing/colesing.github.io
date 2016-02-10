@@ -17,8 +17,8 @@ li {
 	color: white;
 	text-decoration: none;
 	display: block;
-	float: left;
-	padding: 20px;
+	float: right;
+	padding: 15px;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -39,7 +39,7 @@ section#splash {
 	border: 6px black solid;
 }
 h1 {
-	font-size: 26px;
+	font-size: 34px;
 	padding-top: 10em;
 	position: absolute;
 	width: 100%;
@@ -120,7 +120,7 @@ section#livHome {
 }
 
 section#About {
-	background-color: #FF957E;
+	background-color: #94A4B5;
 	border: 1px black solid;
 	padding:20px;
 }
