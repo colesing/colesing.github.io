@@ -64,8 +64,9 @@ section#whatwedo {
 	background-color: white;
 	text-align: center;
 	border: 1px black solid;
-	padding: 10em;
+	padding: 5em;
 	float: left;
+	min-height: 275px;
 }
 
 section#work {
