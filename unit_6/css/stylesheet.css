@@ -78,6 +78,7 @@ section#whatwedo {
 	float: right;
 	margin: 1em;
 	width: 50%;
+	clear: both;
 }
 
 section#work {
