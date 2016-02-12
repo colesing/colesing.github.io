@@ -62,11 +62,11 @@ section#whatwedo {
 
 .grid {
 	background-color: white;
-	text-align: center;
+	text-align: left;
 	border: 1px black solid;
 	padding: 5em;
 	float: left;
-	min-height: 275px;
+	min-height: 100px;
 }
 
 section#work {
