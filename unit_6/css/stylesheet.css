@@ -67,6 +67,7 @@ section#whatwedo {
 	padding: 2em;
 	float: left;
 	width: 50%;
+	clear: right;
 }
 .gridright {
 	background-color: white;
