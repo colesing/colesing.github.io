@@ -17,7 +17,7 @@ li {
 	color: white;
 	text-decoration: none;
 	display: block;
-	float: right;
+	float: left;
 	padding: 15px;
 }
 .clearfix:after {
