@@ -73,6 +73,7 @@ section#whatwedo {
 	text-align: center;
 	border: 1px black solid;
 	padding: 2px;
+	float: right;
 	width: 50%;
 }
 
