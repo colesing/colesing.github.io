@@ -60,7 +60,7 @@ section#whatwedo {
 	padding:20px;
 }
 
-.grid {
+.gridleft {
 	background-color: white;
 	text-align: left;
 	border: 1px black solid;
@@ -69,6 +69,15 @@ section#whatwedo {
 	margin: 1em;
 	width: 50%;
 	clear: both;
+}
+.gridright {
+	background-color: white;
+	text-align: center;
+	border: 1px black solid;
+	padding: 2px;
+	float: right;
+	margin: 1em;
+	width: 50%;
 }
 
 section#work {
