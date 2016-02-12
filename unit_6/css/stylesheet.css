@@ -60,38 +60,12 @@ section#whatwedo {
 	padding:20px;
 }
 
-section#marketing {
-	background-color: blue;
+.grid {
+	background-color: white;
+	text-align: center;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 10em;
 	float: left;
-	width: 50%;
-}
-
-section#calendar {
-	background-color: red;
-	border: 1px black solid;
-	padding: 20px;
-	float: right;
-	width: 50%;
-}
-
-section#advertising {
-	clear: both;
-	background-color: green;
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 50%;
-}
-
-section#reporting {
-	background-color: yellow;
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 50%;
-	clear: right;
 }
 
 section#work {
