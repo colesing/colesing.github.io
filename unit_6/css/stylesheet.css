@@ -64,10 +64,11 @@ section#whatwedo {
 	background-color: white;
 	text-align: left;
 	border: 1px black solid;
-	padding: 5em;
+	padding: 4em;
 	float: left;
 	min-height: 100px;
-	margin: 4em;
+	margin: 2em;
+	width: 50%;
 }
 
 section#work {
