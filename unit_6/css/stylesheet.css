@@ -85,11 +85,11 @@ section#work {
 	clear: both;
 	background-color: #7F8D9C;
 	text-align: center;
-	padding:2px;
+	padding:20px;
 	border: 2px black solid;
 }
 
-.clients h3 {
+section #clients, h3 {
 	clear: both;
 	background-color: #DECBCB;
 	text-align: center;
