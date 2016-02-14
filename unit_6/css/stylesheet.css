@@ -87,7 +87,7 @@ section#work {
 	border: 1px black solid;
 }
 
-section#clients {
+.clients {
 	clear: both;
 	background-color: #B7B7B7;
 	text-align: center;
