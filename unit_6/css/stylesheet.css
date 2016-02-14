@@ -86,6 +86,12 @@ section#work {
 	border:1px black solid;
 	padding:20px;
 }
+.work {
+	img 	
+		float: left;
+		margin-right: 1em;
+		padding: 1em;
+}
 
 section#ABFF {
 	background-color: white;
