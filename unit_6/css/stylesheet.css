@@ -59,7 +59,6 @@ section#whatwedo {
 	border:1px black solid;
 	padding:20px;
 }
-
 .gridleft {
 	background-color: #ABABAB;
 	text-align: center;
@@ -80,16 +79,15 @@ section#whatwedo {
 	width: 50%;
 	min-height: 150px;
 }
-
 section#work {
 	clear: both;
-	background-color: #7F8D9C;
+	background-color: white;
 	text-align: center;
 	padding:20px;
-	border: 2px black solid;
+	border: 1px black solid;
 }
 
-section #clients {
+section#clients p h3 {
 	clear: both;
 	background-color: #DECBCB;
 	text-align: center;
