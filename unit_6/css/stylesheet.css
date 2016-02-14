@@ -94,9 +94,10 @@ section#work {
 	padding-top: 2em;
 }
 
-.clients h3 p {
+.clients h3 {
 	text-align: center;
 	padding-top: 10em;
+	margin-right: 10em;
 }
 
 .logos {
