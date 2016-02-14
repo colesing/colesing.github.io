@@ -82,15 +82,15 @@ section#whatwedo {
 
 section#work {
 	clear: both;
-	background-color: 45525D;
+	background-color: ;
 	border:1px black solid;
 	padding:20px;
 }
-.work {
-	img 	
-		float: left;
-		margin-right: 1em;
-		padding: 1em;
+
+.logos {
+	float: left;
+	margin-right: 2em;
+	padding: 1em;
 }
 
 section#ABFF {
