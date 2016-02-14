@@ -89,8 +89,9 @@ section#work {
 
 section#clients {
 	clear: both;
-	background-color: #DECBCB;
+	background-color: #B7B7B7;
 	text-align: center;
+	padding-top: 2em;
 }
 
 .logos {
