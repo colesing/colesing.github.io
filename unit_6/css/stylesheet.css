@@ -61,7 +61,7 @@ section#whatwedo {
 }
 
 .gridleft {
-	background-color: #515151;
+	background-color: #ABABAB;
 	text-align: center;
 	border: 1px black solid;
 	padding: 2em;
@@ -71,11 +71,11 @@ section#whatwedo {
 	min-height: 150px;
 }
 .gridright {
-	background-color: #515151;
-	text-align: justify;
-	position: center;
+	background-color: #ABABAB;
+	text-align: center;
 	border: 1px black solid;
 	padding: 2px;
+	padding-top: 2px;
 	float: right;
 	width: 50%;
 	min-height: 150px;
@@ -86,12 +86,14 @@ section#work {
 	background-color: #7F8D9C;
 	text-align: center;
 	padding:20px;
+	border-bottom: 2px black solid;
 }
 
 .logos {
 	float: left;
 	margin-right: 2em;
 	padding: 1em;
+	border: 2px black solid; 
 }
 
 section#About {
