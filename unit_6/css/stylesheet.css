@@ -39,7 +39,7 @@ section#splash {
 	border: 6px black solid;
 }
 h1 {
-	font-size: 34px;
+	font-size: 36px;
 	padding-top: 10em;
 	position: absolute;
 	width: 100%;
@@ -48,10 +48,10 @@ h1 {
 		translateY(-50%);
 }
 h2 {
-	font-size: 20px;
+	font-size: 24px;
 }
 h3 {
-	font-style: 18px; 
+	font-style: 20px; 
 }
 section#whatwedo {
 	background-color: #CFCFCF;
@@ -81,13 +81,13 @@ section#whatwedo {
 }
 section#work {
 	clear: both;
-	background-color: white;
+	background-color: #CFCFCF;
 	text-align: center;
 	padding:20px;
 	border: 1px black solid;
 }
 
-section#clients p h3 {
+section#clients {
 	clear: both;
 	background-color: #DECBCB;
 	text-align: center;
