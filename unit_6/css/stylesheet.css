@@ -79,6 +79,10 @@ section#whatwedo {
 	width: 50%;
 	min-height: 150px;
 }
+
+.gridright h3 {
+	padding-top: 1em;
+}
 section#work {
 	clear: both;
 	background-color: #CFCFCF;
