@@ -89,7 +89,7 @@ section#work {
 	border: 2px black solid;
 }
 
-section #clients, h3 {
+section #clients {
 	clear: both;
 	background-color: #DECBCB;
 	text-align: center;
