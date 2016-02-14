@@ -85,14 +85,21 @@ section#work {
 	clear: both;
 	background-color: #7F8D9C;
 	text-align: center;
-	padding:20px;
+	padding:2px;
 	border-bottom: 2px black solid;
+}
+
+.clients h3 {
+	clear: both;
+	background-color: #DECBCB;
+	text-align: center;
 }
 
 .logos {
 	float: left;
 	margin-right: 2em;
-	border: 2px black solid; 
+	border: 2px black solid;
+	margin: 1em; 
 }
 
 section#About {
