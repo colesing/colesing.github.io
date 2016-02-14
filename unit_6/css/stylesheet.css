@@ -94,11 +94,6 @@ section#clients {
 	padding-top: 2em;
 }
 
-#clients h2, p {
-	text-align: center;
-	padding-top: 1px;
-}
-
 .logos {
 	float: left;
 	margin-right: 2em;
