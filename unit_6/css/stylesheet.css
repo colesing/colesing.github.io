@@ -93,7 +93,7 @@ section#work {
 
 .clients {
 	clear: both;
-	background-color: #B7B7B7;
+	background-color: white;
 	text-align: center;
 	padding-top: 2em;
 }
@@ -102,6 +102,7 @@ section#work {
 	text-align: center;
 	padding-top: 5em;
 	margin-right: 2em;
+	padding-bottom: 5em;
 }
 
 .logos {
