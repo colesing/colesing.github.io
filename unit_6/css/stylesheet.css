@@ -91,6 +91,10 @@ section#work {
 	border: 1px black solid;
 }
 
+.clients {
+	position: relative;
+}
+
 .clients h3 {
 	clear: both;
 	background-color: white;
