@@ -85,6 +85,7 @@ section#whatwedo {
 }
 section#work {
 	clear: both;
+	position: relative;
 	background-color: #CFCFCF;
 	text-align: center;
 	padding:20px;
@@ -93,7 +94,6 @@ section#work {
 
 .clients h3 {
 	clear: both;
-	position: relative;
 	background-color: white;
 	text-align: center;
 	padding-top: 2em;
