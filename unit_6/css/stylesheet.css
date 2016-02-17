@@ -91,12 +91,9 @@ section#work {
 	border: 1px black solid;
 }
 
-.clients {
-	position: relative;
-}
-
 .clients h3 {
 	clear: both;
+	position: relative;
 	background-color: white;
 	text-align: center;
 	padding-top: 2em;
