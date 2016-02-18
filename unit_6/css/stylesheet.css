@@ -92,28 +92,27 @@ section#work {
 	border: 1px black solid;
 }
 
-.clients { 
+.position {
 	position: relative;
 }
 
+
 .clients h3 {
 	clear: both;
-	position: absolute;
 	background-color: white;
 	text-align: center;
 	padding-top: 2em;
 	margin-right: 2em;
 }
 .clients div {
-	width: 50%;
 	position: absolute;
+	width: 50%;
 	top: 50%;
 	left: 50%;
 	transform:
 		translate(-50%, -50%);
 }
 .logos {
-	position: relative;
 	float: left;
 	margin-right: 2em;
 	border: 2px black solid;
