@@ -92,6 +92,10 @@ section#work {
 	border: 1px black solid;
 }
 
+section#clients {
+	position: relative;
+}
+
 .clients h3 {
 	clear: both;
 	background-color: white;
@@ -99,7 +103,7 @@ section#work {
 	padding-top: 2em;
 	margin-right: 2em;
 }
-.clients div {
+.clients > div {
 	position: absolute;
 	width: 50%;
 	top: 50%;
