@@ -84,11 +84,16 @@ section#whatwedo {
 	padding-top: 1em;
 }
 section#work {
+	position: relative;
 	clear: both;
 	background-color: #CFCFCF;
 	text-align: center;
 	padding:20px;
 	border: 1px black solid;
+}
+
+.clients { 
+	position: relative;
 }
 
 .clients h3 {
@@ -98,7 +103,6 @@ section#work {
 	padding-top: 2em;
 	margin-right: 2em;
 }
-
 .clients div {
 	width: 50%;
 	position: absolute;
@@ -107,7 +111,6 @@ section#work {
 	transform:
 		translate(-50%, -50%);
 }
-
 .logos {
 	position: relative;
 	float: left;
