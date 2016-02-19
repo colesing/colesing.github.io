@@ -8,11 +8,9 @@ body {
 	font-size: 18px;
 	line-height: 1.5em;
 }
-nav {
-	background-color: black;
-	font-family: "old Standard TT", serif;
-}
-a { 
+
+nav a, nav { 
+	font-family: "Old Standard TT", serif;
 	background-color: black;
 	color: white;
 	text-decoration: none;
@@ -20,7 +18,7 @@ a {
 	float: left;
 	padding: 15px;
 }
-.clearfix:after {
+.clearfix: {
 	visibility: hidden;
 	display: block;
 	content: " ";
@@ -57,7 +55,7 @@ section#whatwedo {
 	background-color: #CFCFCF;
 	text-align: center;
 	border:1px black solid;
-	padding:20px;
+	padding:20em;
 }
 .gridleft {
 	background-color: #ABABAB;
@@ -120,7 +118,6 @@ section#work {
 }
 
 section#About {
-	clear: both;
 	background-color: #94A4B5;
 	border: 1px black solid;
 	padding:20px;
