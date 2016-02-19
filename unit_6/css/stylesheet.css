@@ -5,7 +5,7 @@
 body {
 	color:#222;
 	font-family: 'Old Standard TT', serif; 
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 1.5em;
 }
 nav {
@@ -34,12 +34,12 @@ section#splash {
 	font-family: 'Cabin', sans-serif;
 	background: url(../images/heroimage.JPG);
 	background-size: cover;
-	height: 90vh;
+	height: 100vh;
 	color: white;
 	border: 6px black solid;
 }
 h1 {
-	font-size: 36px;
+	font-size: 40px;
 	padding-top: 10em;
 	position: absolute;
 	width: 100%;
@@ -48,10 +48,10 @@ h1 {
 		translateY(-50%);
 }
 h2 {
-	font-size: 24px;
+	font-size: 30px;
 }
 h3 {
-	font-style: 20px; 
+	font-style: 26px; 
 }
 section#whatwedo {
 	background-color: #CFCFCF;
