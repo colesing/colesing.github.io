@@ -64,7 +64,6 @@ section#whatwedo {
 	text-align: center;
 	border: 1px black solid;
 	padding: 2em;
-	margin: 2em;
 	float: left;
 	width: 50%;
 	clear: left;
@@ -75,7 +74,6 @@ section#whatwedo {
 	text-align: center;
 	border: 1px black solid;
 	padding: 2px;
-	margin: 2em;
 	float: right;
 	width: 50%;
 	min-height: 209px;
