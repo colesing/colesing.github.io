@@ -79,9 +79,12 @@ section#whatwedo {
 	min-height: 209px;
 }
 
-.gridright h3 {
+.gridright h3, .gridright p {
 	padding-top: 2em;
+	margin: 2em;
 }
+
+
 section#work {
 	clear: both;
 	background-color: #CFCFCF;
