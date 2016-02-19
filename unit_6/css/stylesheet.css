@@ -74,14 +74,13 @@ section#whatwedo {
 	text-align: center;
 	border: 1px black solid;
 	padding: 2px;
-	padding-top: 2px;
 	float: right;
 	width: 50%;
 	min-height: 209px;
 }
 
 .gridright h3 {
-	padding-top: 1em;
+	padding-top: 2em;
 }
 section#work {
 	position: relative;
