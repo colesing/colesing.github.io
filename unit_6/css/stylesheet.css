@@ -67,22 +67,19 @@ section#whatwedo {
 	float: left;
 	width: 50%;
 	clear: left;
-	min-height: 150px;
+	min-height: 209px;
 }
-.gridright {
+.gridright, .gridright h3 {
 	background-color: #ABABAB;
 	text-align: center;
 	border: 1px black solid;
-	padding: 2px;
-	padding-top: 2px;
+	padding: 2em;
+	padding-top: 2em;
 	float: right;
 	width: 50%;
-	min-height: 150px;
+	min-height: 209px;
 }
 
-.gridright h3 {
-	padding-top: 1em;
-}
 section#work {
 	position: relative;
 	clear: both;
