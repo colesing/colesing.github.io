@@ -92,7 +92,7 @@ section#work {
 	border: 1px black solid;
 }
 
-section#clients {
+.clients > section {
 	position: relative;
 }
 
@@ -103,7 +103,8 @@ section#clients {
 	padding-top: 2em;
 	margin-right: 2em;
 }
-.clients > div {
+
+.clients div {
 	position: absolute;
 	width: 50%;
 	top: 50%;
