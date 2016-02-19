@@ -120,6 +120,7 @@ section#work {
 }
 
 section#About {
+	clear: both;
 	background-color: #94A4B5;
 	border: 1px black solid;
 	padding:20px;
