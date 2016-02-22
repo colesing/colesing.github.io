@@ -51,7 +51,7 @@ h2 {
 	font-size: 30px;
 }
 h3 {
-	font-style: 26px; 
+	font-style: 28px; 
 }
 section#whatwedo {
 	background-color: #CFCFCF;
@@ -60,7 +60,7 @@ section#whatwedo {
 	padding: 3em;
 }
 .gridleft {
-	background-color: #ABABAB;
+	background-color: white;
 	text-align: center;
 	border: 1px black solid;
 	padding: 2em;
@@ -70,7 +70,7 @@ section#whatwedo {
 	min-height: 209px;
 }
 .gridright {
-	background-color: #ABABAB;
+	background-color: white;
 	text-align: center;
 	border: 1px black solid;
 	padding: 2px;
