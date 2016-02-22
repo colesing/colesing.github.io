@@ -56,6 +56,7 @@ h3 {
 section#whatwedo {
 	background-color: #CFCFCF;
 	text-align: center;
+	border-radius: 25px;
 	border:1px black solid;
 	padding: 3em;
 }
@@ -90,6 +91,7 @@ section#work {
 	text-align: center;
 	padding: 3em;
 	border: 1px black solid;
+	border-radius: 25px;
 }
 
 .clients > section {
@@ -124,6 +126,7 @@ section#About {
 	clear: both;
 	background-color: #F6F6F6;
 	border: 1px black solid;
+	border-radius: 25px;
 	padding:20px;
 }
 
