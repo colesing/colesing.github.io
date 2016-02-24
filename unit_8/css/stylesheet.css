@@ -1,0 +1,132 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+@import url(https://fonts.googleapis.com/css?family=Cabin:600);
+@import url(https://fonts.googleapis.com/css?family=Old+Standard+TT);
+
+body {
+	color:#222;
+	font-family: 'Old Standard TT', serif; 
+	font-size: 18px;
+	line-height: 1.5em;
+}
+nav {
+	background-color: black;
+	font-family: "old Standard TT", serif;
+}
+nav a { 
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 15px;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
+section#splash {
+	text-align: center;
+	font-family: 'Cabin', sans-serif;
+	background: url(../images/heroimage.JPG);
+	background-size: cover;
+	height: 100vh;
+	color: white;
+	border: 6px black solid;
+}
+h1 {
+	font-size: 40px;
+	padding-top: 10em;
+	position: absolute;
+	width: 100%;
+	top: 20%;
+	transform: 
+		translateY(-50%);
+}
+h2 {
+	font-size: 30px;
+}
+h3 {
+	font-style: 28px; 
+}
+section#whatwedo {
+	background-color: #CFCFCF;
+	text-align: center;
+	border-radius: 25px;
+	border:1px black solid;
+	padding: 3em;
+}
+.gridleft {
+	background-color: white;
+	text-align: center;
+	border: 1px black solid;
+	padding: 2em;
+	float: left;
+	width: 50%;
+	clear: left;
+	min-height: 209px;
+}
+.gridright {
+	background-color: white;
+	text-align: center;
+	border: 1px black solid;
+	padding: 2px;
+	float: right;
+	width: 50%;
+	min-height: 209px;
+}
+
+.gridright h3 {
+	padding-top: 2em;
+}
+
+
+section#work {
+	clear: both;
+	background-color: #CFCFCF;
+	text-align: center;
+	padding: 3em;
+	border: 1px black solid;
+	border-radius: 25px;
+}
+
+.clients > section {
+	position: relative;
+}
+
+.clients h3 {
+	clear: both;
+	background-color: transparent;
+	text-align: center;
+	padding: .5em;
+	margin-right: 1em;
+}
+
+.clients div {
+	position: absolute;
+	width: 50%;
+	top: 50%;
+	left: 60%;
+	transform:
+		translate(-50%, -50%);
+	padding-bottom: 3em;
+}
+.logos {
+	float: left;
+	margin-right: 2em;
+	border: 2px black solid;
+	margin: 1em; 
+}
+
+section#About {
+	clear: both;
+	background-color: #F6F6F6;
+	border: 1px black solid;
+	border-radius: 25px;
+	padding:20px;
+}
+
