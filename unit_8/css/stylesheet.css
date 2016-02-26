@@ -68,7 +68,6 @@ section#whatwedo {
 	float: left;
 	width: 50%;
 	clear: left;
-	min-height: 209px;
 }
 .gridright {
 	background-color: white;
@@ -77,7 +76,7 @@ section#whatwedo {
 	padding: 2px;
 	float: right;
 	width: 50%;
-	min-height: 209px;
+	min-height: 20em;
 }
 
 .gridright h3 {
@@ -135,7 +134,7 @@ section#About {
 		width: 100%
 	}
 	h1 { 
-		font-size: 30px;
+		font-size: 34px;
 	}
 }
 
