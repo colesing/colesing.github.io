@@ -130,3 +130,9 @@ section#About {
 	padding:20px;
 }
 
+@media only screen and (max-width: 800px) {
+	#splash {
+		width: 100%
+	}
+}
+
