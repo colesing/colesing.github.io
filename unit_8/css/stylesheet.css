@@ -137,5 +137,8 @@ section#About {
 	h1 { 
 		font-size: 34px;
 	}
+	.client div { 
+		position: relative;
+		}
 }
 
