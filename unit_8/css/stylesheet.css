@@ -141,9 +141,10 @@ section#About {
 		font-size: 34px;
 	}
 
-	.clients h3, div {
+	.clients h3, div, p {
 		clear: both;
-		text-align: left;
+		display: block;
+		text-align: center;
 		position: left;
 
 	}
