@@ -141,13 +141,12 @@ section#About {
 		font-size: 34px;
 	}
 	p {
-		font-size: 20px;
+		font-size: 18px;
 	}
 
 	.client div {
 		text-align: center;
 		position: right;
-		margin: 1em;
 	}
 
 	.logos {
