@@ -137,8 +137,9 @@ section#About {
 	h1 { 
 		font-size: 34px;
 	}
-	section#ABFF {
-		position: left; ;
+	.client div { 
+		position: left;
+		text-align: left;
 	}
 }
 
