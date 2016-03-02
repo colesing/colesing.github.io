@@ -137,9 +137,13 @@ section#About {
 	h1 { 
 		font-size: 34px;
 	}
-	{
-		position: left;
+	.client > section {
+		display: inline-block;
 	}
+	.logo {
+		width: 600px;
+	}
+
 	}
 }
 
