@@ -132,13 +132,13 @@ section#About {
 
 @media only screen and (max-width: 800px) {
 	#splash {
-		width: 100%
+		width: 100%; 
 	}
 	h1 { 
 		font-size: 34px;
 	}
-	.client div { 
-		position: relative;
-		}
+	section#ABFF {
+		position: left; ;
+	}
 }
 
