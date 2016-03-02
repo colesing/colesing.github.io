@@ -140,13 +140,14 @@ section#About {
 	h1 { 
 		font-size: 34px;
 	}
+	p {
+		font-size: 20px;
+	}
 
-	.clients h3, div, p {
-		clear: both;
-		display: block;
+	.client div {
 		text-align: center;
-		position: left;
-
+		position: right;
+		margin: 1em;
 	}
 
 	.logos {
