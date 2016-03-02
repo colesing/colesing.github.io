@@ -135,7 +135,9 @@ section#About {
 		width: 100%;
 		background-size: cover;  
 	}
-
+	#clients {
+		clear: both;
+	}
 	h1 { 
 		font-size: 34px;
 	}
