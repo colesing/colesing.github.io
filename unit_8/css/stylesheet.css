@@ -131,26 +131,26 @@ section#About {
 }
 
 @media only screen and (max-width: 800px) {
+	
 	#splash {
 		width: 100%;
-		background-size: cover;  
+		background-size  
 	}
-	#clients {
-		clear: both;
-	}
+
 	h1 { 
 		font-size: 34px;
 	}
-	.client div {
-		display: block;
+	#clients h3 {
 		clear: both;
+		text-align: left;
+		position: left;
+
 	}
-	}
+
 	.logos {
 		width: 230px;
 		margin: 1em 1em 1em;
 	}
 
-	}
 }
 
