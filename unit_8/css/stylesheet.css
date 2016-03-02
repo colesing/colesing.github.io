@@ -143,10 +143,8 @@ section#About {
 	p {
 		font-size: 18px;
 	}
-
-	#ABFF > div {
-		text-align: center;
-		position: right;
+	#client p {
+		font-size: 12px;
 	}
 
 	.logos {
