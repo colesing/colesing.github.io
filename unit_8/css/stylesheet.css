@@ -137,9 +137,14 @@ section#About {
 	h1 { 
 		font-size: 34px;
 	}
-	.client div { 
-		position: left;
-		text-align: left;
+	.clients div {
+		position: relative;
+		width: 50%;
+		top: 50%;
+		left: 60%;
+		transform:
+			translate(-50%, -50%);
+		padding-bottom: 3em;
 	}
 }
 
