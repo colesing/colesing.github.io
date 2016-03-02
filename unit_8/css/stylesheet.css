@@ -144,15 +144,6 @@ section#About {
 		font-size: 18px;
 	}
 
-	.clients > section {
-	position: absolute;
-	}	
-
-	.clients div {
-		position: relative;
-		text-align: center;
-	}
-
 	#client p {
 		font-size: 12px;
 	}
