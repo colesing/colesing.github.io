@@ -155,7 +155,7 @@ section#About {
 		display: inline-block;
 	}
 	
-	.clients > div { 
+	.clients div { 
 		position: relative;
 		width: 50%;
 		left: 60%;
