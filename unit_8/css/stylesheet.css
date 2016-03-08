@@ -151,7 +151,11 @@ section#About {
 	.logos {
 		width: 230px;
 		margin: 1em 1em 1em;
+		display: inline-block;
 	}
+	.client div { 
+		display: block;
+		}
 
 }
 
