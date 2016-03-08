@@ -149,17 +149,17 @@ section#About {
 	}
 
 	.logos {
-		position: block;
 		width: 230px;
 		margin: 1em 1em 1em;
 		display: inline-block;
 	}
 	
 	.clients div { 
-		position: block;
 		width: 50%;
 		left: 60%;
 		top: 50%;
+		margin: 2em 2em 3em; 
+
 	}
 
 }
