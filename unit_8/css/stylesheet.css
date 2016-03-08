@@ -155,7 +155,9 @@ section#About {
 	}
 	.client div { 
 		display: block;
-		}
+		margin-left: 3em;
+		position: left;
+	}
 
 }
 
