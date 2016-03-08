@@ -149,14 +149,14 @@ section#About {
 	}
 
 	.logos {
-		position: absolute;
+		position: block;
 		width: 230px;
 		margin: 1em 1em 1em;
 		display: inline-block;
 	}
 	
 	.clients div { 
-		position: relative;
+		position: block;
 		width: 50%;
 		left: 60%;
 		top: 50%;
