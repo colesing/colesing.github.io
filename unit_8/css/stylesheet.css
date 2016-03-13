@@ -60,7 +60,7 @@ section#whatwedo {
 	border:1px black solid;
 	padding: 3em;
 }
-.gridleft {
+.grid {
 	background-color: white;
 	text-align: center;
 	border: 1px black solid;
@@ -70,20 +70,6 @@ section#whatwedo {
 	clear: left;
 	min-height: 15em;
 }
-.gridright {
-	background-color: white;
-	text-align: center;
-	border: 1px black solid;
-	padding: 2px;
-	float: right;
-	width: 50%;
-	min-height: 15em;
-}
-
-.gridright h3 {
-	padding-top: 2em;
-}
-
 
 section#work {
 	clear: both;
@@ -130,37 +116,4 @@ section#About {
 	padding:20px;
 }
 
-@media only screen and (max-width: 800px) {
-	
-	#splash {
-		width: 100%;
-		background-size  
-	}
-
-	h1 { 
-		font-size: 34px;
-	}
-	p {
-		font-size: 18px;
-	}
-
-	#clients p {
-		font-size: 12px;
-	}
-
-	.logos {
-		width: 230px;
-		margin: 1em 1em 1em;
-		display: inline-block;
-	}
-	
-	.clients div { 
-		width: 50%;
-		left: 60%;
-		top: 50%;
-		margin: 2em 2em 3em; 
-
-	}
-
-}
 
