@@ -61,13 +61,12 @@ section#whatwedo {
 	padding: 3em;
 }
 .grid {
-	background-color: white;
+	background-color: #CFCFCF;
 	text-align: center;
 	border: 1px black solid;
 	padding: 2em;
 	float: left;
-	width: 50%;
-	clear: left;
+	width: 25%;
 	min-height: 15em;
 }
 
