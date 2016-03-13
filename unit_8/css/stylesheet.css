@@ -60,6 +60,8 @@ section#whatwedo > div {
 	padding: 3em;
 }
 .grid {
+	float: left;
+	margin: 50%;
 	background-color: white;
 	text-align: center;
 	border: 1px black solid;
