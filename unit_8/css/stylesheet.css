@@ -91,16 +91,6 @@ section#work {
 	margin: 1em; 
 }
 
-#work > div {
-	position: absolute;
-	width: 50%;
-	top: 50%;
-	left: 60%;
-	transform:
-		translate(-50%, -50%);
-	padding-bottom: 3em;
-}
-
 section#About {
 	clear: both;
 	background-color: #F6F6F6;
