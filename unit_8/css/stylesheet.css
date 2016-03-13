@@ -91,7 +91,7 @@ section#work {
 	margin: 1em; 
 }
 
-#work div {
+#work > div {
 	position: absolute;
 	width: 50%;
 	top: 50%;
