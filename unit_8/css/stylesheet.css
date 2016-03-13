@@ -76,11 +76,11 @@ section#work {
 	border: 1px black solid;
 }
 
-.clients > section {
-	position: relative;
+#work > div {
+	padding-bottom: 3em;
 }
 
-.clients h3 {
+#work h3 {
 	clear: both;
 	background-color: transparent;
 	text-align: center;
@@ -88,15 +88,6 @@ section#work {
 	margin-right: 1em;
 }
 
-.clients div {
-	position: absolute;
-	width: 50%;
-	top: 50%;
-	left: 60%;
-	transform:
-		translate(-50%, -50%);
-	padding-bottom: 3em;
-}
 .logos {
 	float: left;
 	margin-right: 2em;
