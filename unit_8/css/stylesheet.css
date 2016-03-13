@@ -67,7 +67,6 @@ section#whatwedo > div {
 	border: 1px black solid;
 	padding: 2em;
 	width: 50%
-	min-height: 10em;
 }
 
 section#work {
@@ -98,6 +97,7 @@ section#work {
 	display: inline;
 	position: right;
 	width: 60%;
+	padding: 1em;
 	}
 
 section#About {
