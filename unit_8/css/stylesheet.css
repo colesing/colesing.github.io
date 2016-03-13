@@ -76,10 +76,6 @@ section#work {
 	border: 1px black solid;
 }
 
-#work > div {
-	padding-bottom: 3em;
-}
-
 #work h3 {
 	clear: both;
 	background-color: transparent;
