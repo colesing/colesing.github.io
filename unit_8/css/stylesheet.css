@@ -118,10 +118,11 @@ section#About {
 		float: none;
 		position: center;
 		margin: 0.5em;
+		width: 100%;
 	}
 	.client {
 		display: inline;
-		margin: 50%;
+		width: 100%;
 		position: center;
 	}
 }
