@@ -109,7 +109,8 @@ section#About {
 
 @media only screen and (max-width: 1372px) { 
 	.grid {
-		max-height: 182px;
+		min-height: 209px;
+
 	}
 
 
