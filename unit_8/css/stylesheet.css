@@ -107,10 +107,8 @@ section#About {
 	padding:20px;
 }
 
-@media only screen and (max-width: 1363px) { 
-	.grid { 
-		min-height: 209px;
-		min-width: 182px;
+@media only screen and (max-width: 1380px) { 
+	.grid p { 
 		text-align: left;
 	}
 
