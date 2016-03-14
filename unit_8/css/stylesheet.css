@@ -111,7 +111,10 @@ section#About {
 	.grid { 
 		min-height: 209px;
 		min-width: 182px;
+		text-align: left;
 	}
+
+
 
 
 
