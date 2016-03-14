@@ -111,6 +111,7 @@ section#About {
 	.grid {
 		float: left;
 		min-height: 209px;
+		text-align: right;
 
 	}
 
