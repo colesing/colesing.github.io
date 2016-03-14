@@ -108,11 +108,9 @@ section#About {
 }
 
 @media only screen and (max-width: 1372px) { 
-	.grid h3, p {
-		float: left;
+	
+	#advertising {
 		min-height: 209px;
-		text-align: right;
-
 	}
 
 
