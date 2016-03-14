@@ -113,18 +113,17 @@ section#About {
 	}
 }
 
-@media only screen and (max-width: 1056px) {
+@media only screen and (max-width: 1065px) {
 	.logos{
-		float: none;
 		clear: right;
-		display: block;
+		display: inline-block;
+		width: 90%;
 		position: center;
-		width: 100%;
 	}
 	.client {
 		clear: left;
 		display: block;
-		width: 100%;
+		width: 90%;
 		position: center;
 	}
 	.grid {
