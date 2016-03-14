@@ -107,9 +107,9 @@ section#About {
 	padding:20px;
 }
 
-@media only screen and (max-width: 1380px) { 
-	.grid p { 
-		text-align: left;
+@media only screen and (max-width: 1372px) { 
+	.grid {
+		max-height: 209px;
 	}
 
 
