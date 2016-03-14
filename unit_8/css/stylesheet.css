@@ -118,13 +118,15 @@ section#About {
 		float: none;
 		display: block;
 		position: center;
-		margin: 0.5em;
 		width: 100%;
 	}
 	.client {
 		display: block;
 		width: 100%;
 		position: center;
+	}
+	.grid {
+		min-height: 209px;
 	}
 }
 
