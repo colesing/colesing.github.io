@@ -107,4 +107,13 @@ section#About {
 	padding:20px;
 }
 
+@media only screen and (max-width: 1363px) { 
+	.grid { 
+		min-height: 209px;}
+
+	
+
+
+	}
+
 
