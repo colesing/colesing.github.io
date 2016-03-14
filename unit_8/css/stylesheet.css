@@ -121,6 +121,8 @@ section#About {
 	}
 	.client {
 		display: inline;
+		margin: 50%;
+		position: center;
 	}
 }
 
