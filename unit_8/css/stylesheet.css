@@ -111,12 +111,17 @@ section#About {
 	.grid {
 		min-height: 209px;
 	}
+}
 
-
-
-
-
-
+@media only screen and (max-width: 1047px) {
+	.logos{
+		float: none;
+		position: center;
+		margin: 0.5em;
+	}
+	.client {
+		display: inline;
+	}
 }
 
 
