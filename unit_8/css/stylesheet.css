@@ -125,10 +125,10 @@ section#About {
 		display: block;
 		width: 90%;
 		position: center;
+		margin: 0.5em;
 	}
 	.grid {
 		min-height: 209px;
-		margin-left: 1em;
 	}
 }
 @media only screen and (max-width: 817px) {
