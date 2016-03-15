@@ -5,8 +5,8 @@
 body {
 	color:#222;
 	font-family: 'Old Standard TT', serif; 
-	font-size: 1.5em;
-	line-height: 1.5em;
+	font-size: 18px;
+	line-height: 1;
 }
 nav {
 	background-color: black;
@@ -18,7 +18,7 @@ nav a {
 	text-decoration: none;
 	display: block;
 	float: left;
-	padding: 15px;
+	padding: 1em;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -39,7 +39,7 @@ section#splash {
 	border: 6px black solid;
 }
 h1 {
-	font-size: 40px;
+	font-size: 3em;
 	padding-top: 10em;
 	position: absolute;
 	width: 100%;
@@ -48,10 +48,10 @@ h1 {
 		translateY(-50%);
 }
 h2 {
-	font-size: 30px;
+	font-size: 2.5em;
 }
 h3 {
-	font-style: 28px; 
+	font-style: 2em; 
 }
 section#whatwedo > div {
 	background-color: #CFCFCF;
