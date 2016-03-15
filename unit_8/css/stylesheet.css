@@ -146,13 +146,13 @@ section#About {
 	.logos{
 		clear: right;
 		display: inline-block;
-		width: 90%;
+		width: 60%;
 		position: center;
 	}
 	.client {
 		clear: left;
 		display: block;
-		width: 90%;
+		width: 60%;
 		position: center;
 		margin: 0.5em;
 	}
