@@ -113,6 +113,19 @@ section#About {
 	}
 }
 
+@media only sreen and (max-width: 1075px) {
+	.logos { 
+		display: inline-block;
+		width: 90%
+		position: center;
+	}
+	.clients {
+		display: inline-block;
+		width: 90%;
+		margin: 1em;
+	}
+}
+
 @media only screen and (max-width: 1065px) {
 	.logos{
 		clear: right;
