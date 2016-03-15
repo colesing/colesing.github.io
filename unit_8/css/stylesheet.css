@@ -117,7 +117,7 @@ section#About {
 	.logos {
 		float: none;
 		display: block;
-		width: 100%;
+		width: 50%;
 		position: center;
 	}
 
@@ -125,9 +125,8 @@ section#About {
 		float: none;
 		clear: left;
 		display: block;
-		width: 100%;
+		width: 50%;
 		position: center;
-		margin: 0.5em;
 	}	
 }
 
@@ -149,18 +148,18 @@ section#About {
 	.logos{
 		clear: right;
 		display: inline-block;
-		width: 60%;
+		width: 50%;
 		position: center;
 	}
 	.client {
 		clear: left;
 		display: block;
-		width: 60%;
+		width: 50%;
 		position: center;
 		margin: 0.5em;
 	}
 	.grid {
-		min-height: 230px;
+		min-height: 209px;
 	}
 }
 
