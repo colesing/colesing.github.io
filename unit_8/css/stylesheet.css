@@ -117,7 +117,7 @@ section#About {
 	.logos {
 		float: left;
 		display: block;
-		width: 50%;
+		width: 70%;
 		position: center;
 	}
 
@@ -125,7 +125,7 @@ section#About {
 		float: left;
 		clear: left;
 		display: block;
-		width: 50%;
+		width: 70%;
 		position: center;
 	}	
 }
@@ -154,13 +154,13 @@ section#About {
 	.logos{
 		clear: right;
 		display: inline-block;
-		width: 60%;
+		width: 70%;
 		position: center;
 	}
 	.client {
 		clear: left;
 		display: block;
-		width: 60%;
+		width: 70%;
 		position: center;
 		margin: 0.5em;
 	}
