@@ -115,12 +115,14 @@ section#About {
 
 @media only screen and (max-width: 1083px) {
 	.logos {
-		display: inline-block;
+		float: none;
+		display: block;
 		width: 100%;
 		position: center;
 	}
 
 	.client {
+		float: none;
 		clear: left;
 		display: block;
 		width: 100%;
