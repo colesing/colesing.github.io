@@ -129,6 +129,9 @@ section#About {
 		width: 70%;
 		position: center;
 	}	
+	.grid {
+		min-height: 209px;
+	}
 }
 
 @media only screen and (max-width: 1075px) {
