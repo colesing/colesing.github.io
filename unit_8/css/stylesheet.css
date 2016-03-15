@@ -132,14 +132,17 @@ section#About {
 
 @media only screen and (max-width: 1075px) {
 	.logos { 
+		float: left;
 		display: inline-block;
-		width: 50%
+		width: 70%
 		position: center;
 		margin-right: 1em;
 	}
 	.clients {
+		float: left;
 		display: inline-block;
-		width: 50%;
+		width: 70%;
+		position: center;
 		margin: 1em;
 	}
 	.grid { 
