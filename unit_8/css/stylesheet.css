@@ -134,13 +134,13 @@ section#About {
 @media only screen and (max-width: 1075px) {
 	.logos { 
 		display: inline-block;
-		width: 70%
+		width: 50%
 		position: center;
 		margin-right: 1em;
 	}
 	.clients {
 		display: inline-block;
-		width: 90%;
+		width: 50%;
 		margin: 1em;
 	}
 }
