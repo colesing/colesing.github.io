@@ -142,19 +142,22 @@ section#About {
 		width: 50%;
 		margin: 1em;
 	}
+	.grid { 
+		min-height: 209px;
+	}
 }
 
 @media only screen and (max-width: 1065px) {
 	.logos{
 		clear: right;
 		display: inline-block;
-		width: 50%;
+		width: 60%;
 		position: center;
 	}
 	.client {
 		clear: left;
 		display: block;
-		width: 50%;
+		width: 60%;
 		position: center;
 		margin: 0.5em;
 	}
