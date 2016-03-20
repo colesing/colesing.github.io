@@ -187,7 +187,15 @@ section#About {
 	.grid {
 		min-height: 236px;
 	}
+}
+
+@media only screen and (max-width: 685px) {
+	.grid {
+		float: none;
+		width: 100%;
 	}
+}
+
 
 }
 
